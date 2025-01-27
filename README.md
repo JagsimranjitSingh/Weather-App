@@ -10,5 +10,6 @@ The **Weather App** is a user-friendly web application that provides forecasted 
 ## Screenshot:
 ![Screenshot 2025-01-27 064408](https://github.com/user-attachments/assets/366cac82-5977-48de-b859-d4c52a73412b)
 <br><br>
-
-
+## Demo:
+Click on below link🔗 for the demo of the project:<br>
+https://jagsimranjitsingh.github.io/Weather-App/
